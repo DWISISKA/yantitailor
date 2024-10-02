@@ -1,0 +1,70 @@
+body{
+    background-image: url(foto/bg8.png);
+    background-size: cover;
+    background-position: center;
+    font-family: Poppins;
+}
+
+.container .judul-navbar{
+    font-family: Poppins;
+    color: orange;
+    
+}
+
+.container .navbar-nav{
+    font-family: Poppins;
+}
+
+.container .row {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    color: rgb(114, 35, 6);
+}
+
+
+.row .fw-bold{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    color: rgb(114, 35, 6);
+}
+
+.row h1 .fw-bold {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-size: 400%;
+}
+
+.row .btn{
+    background-color: rgb(235, 100, 11);
+    color: white;
+}
+
+.testimoni h1{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;  
+    color: rgb(114, 35, 6);
+}
+
+.testimoni .card-body{
+    color: black;
+    background-color: white;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.testimoni .card-body h4{
+    color: rgb(114, 35, 6);
+}
+
+.produk .card-body h3{
+    color: rgb(114, 35, 6);
+}
+
+.container h1{
+    color:rgb(114, 35, 6);;
+}
+
+.order .btn{
+    padding: 10px;
+}
+

@@ -1,0 +1,47 @@
+body{
+    background-image: url(foto/bg9.png);
+    background-size: cover;
+    background-position: center;
+    font-family: Poppins;
+    
+}
+
+.container .judul-navbar{
+    font-family: Poppins;
+    color: rgb(114, 35, 6);
+    
+}
+
+.navbar-nav a:hover {
+    background-color: rgb(243, 214, 214);
+    color: white;
+}
+
+.container .judul {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    color: rgb(114, 35, 6);
+    font-size: 120px;
+}
+
+.row h3,h5 .fw-bold{
+    font-family: Poppins, cursive;
+    font-optical-sizing: auto;
+    color: rgb(114, 35, 6);
+    font-size: 35px;
+    margin-bottom: 25px;
+}
+
+ p{
+    font-size: 20px;
+}
+
+.kolom {
+   border: 2px solid rgb(238, 198, 198);
+   border-radius: 20px;
+   margin: 10px;
+   padding: 20px;
+   flex: 1;
+   display: flex;
+}
+
